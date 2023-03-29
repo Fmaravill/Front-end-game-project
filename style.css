@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+ }
+
+.startButton{ 
+    margin: 60px;
+    width: 200px;
+    padding: 10px; 
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: greenyellow;
+}
+
+.hide {
+    display: none;
+}
+
+.banana {
+    display: none;
+}
